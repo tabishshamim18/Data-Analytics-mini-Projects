@@ -108,7 +108,7 @@ While this project focuses on **content type and language**, future enhancements
 
 ## 📌 Repository Structure
 
-📁 Netflix-Content-Viewership-Analysis/
+📁 Netflix-Content-Strategy-Analysis/
 ├── Netflix Content Strategy Analysis.ipynb # Analysis & visualization notebook
 ├── netflix_content.csv # Dataset used in the project
 └── README.md
